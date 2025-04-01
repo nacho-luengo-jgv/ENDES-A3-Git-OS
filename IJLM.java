@@ -11,6 +11,7 @@ public class U03_A3 {
         int numero =sc.nextInt();
         numero++;
         System.out.println("La edad que vas a tener el proximo anio es:"+numero);
+	System.out.println("Nueva linea");
         
 }
      
